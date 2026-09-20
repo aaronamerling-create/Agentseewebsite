@@ -9,12 +9,16 @@
 <meta property="og:type" content="website" />
 <meta property="og:title" content="AgentSee — The Marketing Agency for the Agentic Web" />
 <meta property="og:description" content="AI agents now move through the same funnel your customers always have — discovery, research, conversion — just faster. AgentSee is the marketing agency that gets your brand through it." />
-<meta property="og:url" content="https://agentsee.ai" />
-<meta property="og:image" content="https://agentsee.ai/assets/og-image.svg" />
+<meta property="og:url" content="https://aaronamerling-create.github.io/Agentsee" />
+<meta property="og:image" content="https://aaronamerling-create.github.io/Agentsee/assets/og-image.svg" />
 
 <meta name="twitter:card" content="summary_large_image" />
 <meta name="twitter:title" content="AgentSee — The Marketing Agency for the Agentic Web" />
 <meta name="twitter:description" content="A marketing agency for the agentic web — full-funnel strategy for the customer journey AI agents now run: discovery, research, conversion." />
+
+<meta name="robots" content="index, follow, max-image-preview:large" />
+<meta name="author" content="AgentSee" />
+<link rel="canonical" href="https://aaronamerling-create.github.io/Agentsee/" />
 
 <link rel="icon" type="image/svg+xml" href="assets/favicon.svg" />
 <link rel="preconnect" href="https://fonts.googleapis.com" />
@@ -25,12 +29,125 @@
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "ProfessionalService",
-  "name": "AgentSee",
-  "url": "https://agentsee.ai",
-  "description": "AgentSee is a marketing agency that markets to AI agents — bringing full-funnel brand and marketing strategy to the agentic customer journey, from discovery (AEO/GEO) through research and conversion (structured data, APIs, MCP, WebMCP).",
-  "areaServed": "Worldwide",
-  "serviceType": ["Answer Engine Optimization", "Generative Engine Optimization", "Full-funnel agentic marketing strategy", "Structured data implementation", "Model Context Protocol integration"]
+  "@graph": [
+    {
+      "@type": "ProfessionalService",
+      "@id": "https://aaronamerling-create.github.io/Agentsee/#organization",
+      "name": "AgentSee",
+      "url": "https://aaronamerling-create.github.io/Agentsee",
+      "logo": "https://aaronamerling-create.github.io/Agentsee/assets/favicon.svg",
+      "image": "https://aaronamerling-create.github.io/Agentsee/assets/og-image.svg",
+      "slogan": "The marketing agency for the agentic web.",
+      "description": "AgentSee is a marketing agency that markets to AI agents — bringing full-funnel brand and marketing strategy to the agentic customer journey, from discovery (AEO/GEO) through research and conversion (structured data, APIs, MCP, WebMCP).",
+      "areaServed": "Worldwide",
+      "email": "aaronamerling@gmail.com",
+      "knowsAbout": [
+        "Answer Engine Optimization",
+        "Generative Engine Optimization",
+        "Structured data and schema.org markup",
+        "Model Context Protocol (MCP)",
+        "WebMCP",
+        "Agentic commerce",
+        "Full-funnel marketing strategy"
+      ],
+      "makesOffer": [
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Service",
+            "name": "Agentic Readiness Audit",
+            "description": "A full diagnostic of how a brand shows up to AI agents across the funnel — discovery, research, and conversion."
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Service",
+            "name": "AEO & GEO Strategy",
+            "description": "Content and positioning designed to earn citations and recommendations inside AI-generated answers."
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Service",
+            "name": "Structured Data & Brand Content",
+            "description": "Schema markup and brand-consistent content so AI agents can accurately research and represent a business."
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Service",
+            "name": "API, MCP & WebMCP Enablement",
+            "description": "Strategy and implementation support for exposing business capabilities through interfaces AI agents can call."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://aaronamerling-create.github.io/Agentsee/#website",
+      "url": "https://aaronamerling-create.github.io/Agentsee",
+      "name": "AgentSee",
+      "inLanguage": "en",
+      "publisher": { "@id": "https://aaronamerling-create.github.io/Agentsee/#organization" }
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://aaronamerling-create.github.io/Agentsee/#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What is AEO (Answer Engine Optimization)?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "AEO is the practice of structuring content so AI answer engines — like ChatGPT, Perplexity, and Google's AI Overviews — can accurately extract, quote, and cite it. Where SEO optimizes for a ranked list of links, AEO optimizes for being the source an agent pulls from to construct its answer."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is GEO (Generative Engine Optimization)?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "GEO is the discipline of earning visibility and citation inside AI-generated answers themselves, not just in an index of links. It focuses on the content structure, authority signals, and phrasing that generative models are more likely to reference and recommend."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the Model Context Protocol (MCP)?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "MCP is an open standard that lets AI agents connect to external tools, data, and services through a consistent interface. Exposing business capabilities via MCP means an agent can check pricing, availability, or complete an action directly, instead of just reading a page and guessing."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is WebMCP?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "WebMCP brings agent-native interaction into the browser itself, letting an AI agent act within a website's own interface the way a human would — instead of needing a separate API integration for every task."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Why does my website need to be ready for AI agents?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Because a growing share of discovery and research now happens through AI agents acting on a person's behalf. If an agent can't find clean answers or structured data on a site, it recommends a competitor instead — quietly, with no error message to alert you."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How is AgentSee different from an SEO agency or a web development shop?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "AgentSee leads with brand and full-funnel marketing strategy — the same instincts that win a human customer journey — and applies them to the funnel an agent now runs on a customer's behalf. Most competitors treat this as a pure engineering or technical SEO problem; AgentSee treats it as a marketing problem that happens to need some technical execution."
+          }
+        }
+      ]
+    }
+  ]
 }
 </script>
 </head>
@@ -66,7 +183,7 @@
       <a href="#why-agency">Why Us</a>
       <a href="#journey">The Journey</a>
       <a href="#services">Services</a>
-      <a href="#process">Process</a>
+      <a href="#faq">FAQ</a>
     </nav>
 
     <a class="btn btn-primary btn-small" href="#contact">Talk to AgentSee</a>
@@ -81,6 +198,7 @@
     <a href="#journey">The Journey</a>
     <a href="#services">Services</a>
     <a href="#process">Process</a>
+    <a href="#faq">FAQ</a>
     <a href="#contact" class="btn btn-primary btn-small">Talk to AgentSee</a>
   </nav>
 </header>
@@ -328,6 +446,59 @@
     </div>
   </section>
 
+  <!-- FAQ -->
+  <section class="section section-alt" id="faq">
+    <div class="container">
+      <div class="section-head">
+        <p class="kicker">Straight answers</p>
+        <h2>The questions we get asked before "how much does this cost?"</h2>
+        <p class="section-lead">
+          Short, direct answers — written the way we'd want an agent to quote them back.
+        </p>
+      </div>
+
+      <div class="faq-list">
+        <details class="faq-item reveal" open>
+          <summary><h3>What is AEO (Answer Engine Optimization)?</h3></summary>
+          <p>AEO is the practice of structuring content so AI answer engines — like ChatGPT, Perplexity, and
+            Google's AI Overviews — can accurately extract, quote, and cite it. Where SEO optimizes for a ranked
+            list of links, AEO optimizes for being the source an agent pulls from to construct its answer.</p>
+        </details>
+        <details class="faq-item reveal">
+          <summary><h3>What is GEO (Generative Engine Optimization)?</h3></summary>
+          <p>GEO is the discipline of earning visibility and citation inside AI-generated answers themselves, not
+            just in an index of links. It focuses on the content structure, authority signals, and phrasing that
+            generative models are more likely to reference and recommend.</p>
+        </details>
+        <details class="faq-item reveal">
+          <summary><h3>What is the Model Context Protocol (MCP)?</h3></summary>
+          <p>MCP is an open standard that lets AI agents connect to external tools, data, and services through a
+            consistent interface. Exposing business capabilities via MCP means an agent can check pricing,
+            availability, or complete an action directly, instead of just reading a page and guessing.</p>
+        </details>
+        <details class="faq-item reveal">
+          <summary><h3>What is WebMCP?</h3></summary>
+          <p>WebMCP brings agent-native interaction into the browser itself, letting an AI agent act within a
+            website's own interface the way a human would — instead of needing a separate API integration for
+            every task.</p>
+        </details>
+        <details class="faq-item reveal">
+          <summary><h3>Why does my website need to be ready for AI agents?</h3></summary>
+          <p>Because a growing share of discovery and research now happens through AI agents acting on a person's
+            behalf. If an agent can't find clean answers or structured data on a site, it recommends a competitor
+            instead — quietly, with no error message to alert you.</p>
+        </details>
+        <details class="faq-item reveal">
+          <summary><h3>How is AgentSee different from an SEO agency or a web development shop?</h3></summary>
+          <p>AgentSee leads with brand and full-funnel marketing strategy — the same instincts that win a human
+            customer journey — and applies them to the funnel an agent now runs on a customer's behalf. Most
+            competitors treat this as a pure engineering or technical SEO problem; AgentSee treats it as a
+            marketing problem that happens to need some technical execution.</p>
+        </details>
+      </div>
+    </div>
+  </section>
+
   <!-- CTA / URGENCY BANNER -->
   <section class="cta-banner" id="contact">
     <div class="container cta-inner">
@@ -360,6 +531,7 @@
       <a href="#journey">The Journey</a>
       <a href="#services">Services</a>
       <a href="#process">Process</a>
+      <a href="#faq">FAQ</a>
       <a href="#contact">Contact</a>
     </div>
   </div>

@@ -1,0 +1,38 @@
+# AgentSee
+
+> AgentSee is a marketing agency that markets to AI agents. We help companies get their
+> brand and website ready for the agentic web — the growing share of discovery, research,
+> and transactions now happening through AI agents acting on a human customer's behalf.
+> We treat this as a full-funnel marketing problem, not an engineering problem: agents
+> still move through discovery, research and education, and conversion — just faster.
+
+## What we do
+
+- **Agentic Readiness Audit** — a full diagnostic of how a brand shows up to AI agents across the funnel: where it's invisible at discovery, misrepresented in research, and unusable at conversion.
+- **AEO & GEO Strategy** — content and positioning designed to earn citation and recommendation inside AI-generated answers (Answer Engine Optimization / Generative Engine Optimization).
+- **Structured Data & Brand Content** — schema.org markup and brand-consistent content so agents can accurately research and represent a business.
+- **API, MCP & WebMCP Enablement** — strategy and implementation support for exposing real business capabilities through interfaces agents can call (Model Context Protocol, WebMCP).
+
+## The framework
+
+The agentic customer journey has three stages, and AgentSee builds readiness across all of them:
+
+1. **Discovery** — AEO, GEO
+2. **Research & Education** — structured data & schema, brand-consistent content
+3. **Conversion** — APIs & MCP, WebMCP
+
+## Differentiator
+
+AgentSee was built by marketers, not engineers who discovered AI. Most companies in this
+space approach the agentic web as an engineering problem. AgentSee approaches it as a
+marketing problem that happens to need some technical execution — full-funnel brand
+strategy, applied to a funnel now run by agents.
+
+## Contact
+
+- Email: aaronamerling@gmail.com (placeholder — a dedicated agentsee.ai inbox is coming)
+- Site: https://aaronamerling-create.github.io/Agentsee
+
+---
+This file follows the llms.txt convention (https://llmstxt.org) — a plain-text summary
+intended to help AI agents and language models quickly and accurately understand this site.
