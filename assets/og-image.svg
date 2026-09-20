@@ -1,0 +1,34 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="630" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#06070A"/>
+      <stop offset="1" stop-color="#0B0D13"/>
+    </linearGradient>
+    <linearGradient id="g1" x1="0" y1="0" x2="1200" y2="630" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#5EEAD4"/>
+      <stop offset="1" stop-color="#818CF8"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.15" r="0.7">
+      <stop offset="0%" stop-color="#5EEAD4" stop-opacity="0.18"/>
+      <stop offset="100%" stop-color="#5EEAD4" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <rect width="1200" height="630" fill="url(#glow)"/>
+
+  <g transform="translate(96,120)">
+    <circle cx="30" cy="30" r="27" stroke="url(#g1)" stroke-width="3"/>
+    <circle cx="30" cy="30" r="7.5" fill="url(#g1)"/>
+    <circle cx="30" cy="4" r="3.5" fill="url(#g1)"/>
+    <circle cx="56" cy="30" r="3.5" fill="url(#g1)"/>
+    <circle cx="30" cy="56" r="3.5" fill="url(#g1)"/>
+    <circle cx="4" cy="30" r="3.5" fill="url(#g1)"/>
+    <text x="78" y="42" font-family="'Space Grotesk', Arial, sans-serif" font-size="34" font-weight="700" fill="#ffffff">Agent<tspan fill="#5EEAD4">See</tspan></text>
+  </g>
+
+  <text x="96" y="300" font-family="'Space Grotesk', Arial, sans-serif" font-size="60" font-weight="700" fill="#ffffff">Your next customer</text>
+  <text x="96" y="372" font-family="'Space Grotesk', Arial, sans-serif" font-size="60" font-weight="700" fill="url(#g1)">might not be human.</text>
+
+  <text x="96" y="440" font-family="Arial, sans-serif" font-size="24" fill="#a7adc0">Readying businesses for the agentic web —</text>
+  <text x="96" y="474" font-family="Arial, sans-serif" font-size="24" fill="#a7adc0">from discovery (AEO/GEO) to usage (APIs, MCP, WebMCP).</text>
+</svg>
