@@ -377,6 +377,10 @@ body.nav-open .mobile-nav { display: flex; }
   gap: 32px;
 }
 
+.journey.journey-3 {
+  grid-template-columns: 1fr auto 1fr auto 1fr;
+}
+
 .journey-col {
   background: var(--surface);
   border: 1px solid var(--border);
@@ -586,7 +590,8 @@ body.nav-open .mobile-nav { display: flex; }
   .services-grid,
   .process-grid { grid-template-columns: 1fr; }
 
-  .journey { grid-template-columns: 1fr; }
+  .journey,
+  .journey.journey-3 { grid-template-columns: 1fr; }
   .journey-arrow { display: none; }
 }
 

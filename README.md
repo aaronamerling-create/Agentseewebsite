@@ -1,8 +1,9 @@
 # AgentSee
 
-Marketing site for **AgentSee** — a consulting practice helping companies get their
-digital presence ready for the agentic web: AI agents that discover, evaluate, and
-transact on behalf of human customers.
+Marketing site for **AgentSee** — a marketing agency that markets to AI agents. We
+bring years of brand and full-funnel marketing experience to the agentic customer
+journey: AI agents that now discover, research, and transact on behalf of human
+customers, running the same funnel a human buyer always has — just faster.
 
 Live site: **https://agentsee.ai** (via GitHub Pages)
 
@@ -11,10 +12,13 @@ Live site: **https://agentsee.ai** (via GitHub Pages)
 One long-form landing page covering:
 
 - **The Shift** — why the agentic customer journey is urgent right now
-- **The Journey** — the two-phase framework AgentSee sells against:
+- **Why Us** — the differentiator: AgentSee is marketing-first, not engineering-first —
+  the agentic journey is a funnel problem before it's an API problem
+- **The Journey** — the three-stage funnel framework AgentSee sells against:
   - **Discovery**: AEO (Answer Engine Optimization), GEO (Generative Engine Optimization)
-  - **Usage**: structured data, APIs & MCP (Model Context Protocol), WebMCP
-- **Services** — the four consulting offerings
+  - **Research & Education**: structured data & schema, brand-consistent content
+  - **Conversion**: APIs & MCP (Model Context Protocol), WebMCP
+- **Services** — the four agency offerings
 - **Process** — Audit → Architect → Activate
 - **Contact** — a mailto CTA (placeholder until a dedicated agentsee.ai inbox exists)
 
