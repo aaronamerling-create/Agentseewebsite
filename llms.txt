@@ -43,7 +43,7 @@ Engagements usually start with an Audit; each later stage is scoped and quoted a
 ## Contact
 
 - Email: aaronamerling@gmail.com (a dedicated agentsee.ai inbox and a self-serve Assessment are coming)
-- Site: https://aaronamerling-create.github.io/Agentsee
+- Site: https://aaronamerling-create.github.io/Agentseewebsite
 
 ---
 This file follows the llms.txt convention (https://llmstxt.org): a plain-text summary

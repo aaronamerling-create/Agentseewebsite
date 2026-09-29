@@ -5,7 +5,7 @@ for both humans and AI agents, for mid-size B2B companies. The core question: if
 of a browser, how much of the customer journey actually works? AgentSee measures and improves that
 across discover, understand, evaluate, compare, qualify, and act,.
 
-Live site: **https://aaronamerling-create.github.io/Agentsee** (via GitHub Pages)
+Live site: **https://aaronamerling-create.github.io/Agentseewebsite** (via GitHub Pages)
 
 > The `agentsee.ai` domain is not connected yet. The site currently runs on the
 > default GitHub Pages URL above — see [Connecting the agentsee.ai domain later](#connecting-the-agentseeai-domain-later).
@@ -49,7 +49,7 @@ Since AgentSee sells agent-readiness, the site itself follows AEO/GEO best pract
 **Note:** every URL in the structured data, `robots.txt`, `sitemap.xml`, and `llms.txt` currently
 points at the live `github.io` URL. Once the `agentsee.ai` domain is connected (see below), these
 all need to be updated to the `agentsee.ai` URLs — search for
-`aaronamerling-create.github.io/Agentsee` across the repo and replace with `agentsee.ai`.
+`aaronamerling-create.github.io/Agentseewebsite` across the repo and replace with `agentsee.ai`.
 
 ## Project structure
 
@@ -85,7 +85,7 @@ Then visit `http://localhost:8000`.
 ## Deployment (GitHub Pages)
 
 This repo is already deployed via GitHub Pages from the `main` branch, root folder,
-live at `https://aaronamerling-create.github.io/Agentsee`.
+live at `https://aaronamerling-create.github.io/Agentseewebsite`.
 
 ## Connecting the agentsee.ai domain later
 
@@ -102,7 +102,7 @@ live at `https://aaronamerling-create.github.io/Agentsee`.
    - Optionally add a **CNAME record** for `www` → `aaronamerling-create.github.io`
 3. In **Settings → Pages**, add `agentsee.ai` as the custom domain and enable
    **Enforce HTTPS** once DNS has propagated.
-4. Update every `https://aaronamerling-create.github.io/Agentsee` reference (structured
+4. Update every `https://aaronamerling-create.github.io/Agentseewebsite` reference (structured
    data in `index.html`, `robots.txt`, `sitemap.xml`, `llms.txt`) to `https://agentsee.ai`.
 
 ## Updating the contact CTA

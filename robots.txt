@@ -47,4 +47,4 @@ Allow: /
 User-agent: cohere-ai
 Allow: /
 
-Sitemap: https://aaronamerling-create.github.io/Agentsee/sitemap.xml
+Sitemap: https://aaronamerling-create.github.io/Agentseewebsite/sitemap.xml
