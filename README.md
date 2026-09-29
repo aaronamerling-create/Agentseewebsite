@@ -20,9 +20,7 @@ is the way in (lead magnet):
 - **What you get**: six business outcomes of the full program
 - **Services**: the ladder Assessment (free) -> Audit -> Architect -> Activate -> Adapt; paid stages marked
   "Paid" with a "Contact us" link
-- **Free Assessment**: what it delivers, and the maturity scale (Agent Discoverable, Agent Executable,
-  Agent Ready; Agent Usable in the Audit; Agent Operable in the Audit and Activate)
-- **Try this today**: three checks a visitor can run themselves
+- **Free Assessment**: what it delivers
 - **How We Measure**: evidence, honesty, stable score, findings before fixes, validation, practicing what we measure
 - **FAQ**: paid services first, then the Assessment (mirrored word-for-word in the FAQPage structured data)
 - **Contact**: two paths, a free Assessment form and a paid-services enquiry (both open a pre-filled email
