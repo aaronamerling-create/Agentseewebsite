@@ -1,9 +1,9 @@
 # AgentSee
 
-Marketing site for **AgentSee** — a marketing agency that markets to AI agents. We
-bring years of brand and full-funnel marketing experience to the agentic customer
-journey: AI agents that now discover, research, and transact on behalf of human
-customers, running the same funnel a human buyer always has — just faster.
+Marketing site for **AgentSee**, which helps businesses make their digital experiences work
+for both humans and AI agents. The core question: if a prospect arrives with an AI agent instead
+of a browser, how much of the customer journey actually works? AgentSee measures and improves that
+across discover, understand, evaluate, compare, qualify, and act, starting with mid-market B2B software.
 
 Live site: **https://aaronamerling-create.github.io/Agentsee** (via GitHub Pages)
 
@@ -14,17 +14,18 @@ Live site: **https://aaronamerling-create.github.io/Agentsee** (via GitHub Pages
 
 One long-form landing page covering:
 
-- **The Shift** — why the agentic customer journey is urgent right now
-- **Why Us** — the differentiator: AgentSee is marketing-first, not engineering-first —
-  the agentic journey is a funnel problem before it's an API problem
-- **The Journey** — the three-stage funnel framework AgentSee sells against:
-  - **Discovery**: AEO (Answer Engine Optimization), GEO (Generative Engine Optimization)
-  - **Research & Education**: structured data & schema, brand-consistent content
-  - **Conversion**: APIs & MCP (Model Context Protocol), WebMCP
-- **Services** — the four agency offerings
-- **Process** — Audit → Architect → Activate
-- **FAQ** — direct, quotable answers to the AEO/GEO/MCP/WebMCP questions people (and agents) actually ask
-- **Contact** — a mailto CTA (placeholder until a dedicated agentsee.ai inbox exists)
+- **The Shift**: agents now evaluate vendors, not just find them; the gaps are silent
+- **The Journey**: the six stages AgentSee measures (Discover, Understand, Evaluate, Compare,
+  Qualify, Act); AEO/GEO/structured data/APIs/MCP are tools, not the goal
+- **Snapshot**: the free agent's-eye assessment (0-100 score, A-F grade, six dimensions, findings,
+  anonymous benchmark) and the readiness maturity scale (Agent Discoverable, Agent Executable,
+  Technically Agent-Ready; Agent Usable in the Audit; Agent Operable beyond)
+- **Services**: the ladder Snapshot (free) -> Audit -> Architect -> Activate -> Adapt
+- **How We Measure**: honest agent's-eye view, evidence, stable score with honest benchmarks,
+  findings before fixes, methodology validation, B2B software first
+- **FAQ**: direct, quotable answers (mirrored word-for-word in the FAQPage structured data)
+- **Contact**: a mailto CTA to request a Snapshot (placeholder until a self-serve Snapshot and an
+  agentsee.ai inbox exist)
 
 ## Practicing what we preach
 

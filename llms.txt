@@ -1,38 +1,47 @@
 # AgentSee
 
-> AgentSee is a marketing agency that markets to AI agents. We help companies get their
-> brand and website ready for the agentic web — the growing share of discovery, research,
-> and transactions now happening through AI agents acting on a human customer's behalf.
-> We treat this as a full-funnel marketing problem, not an engineering problem: agents
-> still move through discovery, research and education, and conversion — just faster.
+> AgentSee helps businesses make their digital experiences work for both humans and AI agents.
+> The core question: if a prospective customer arrives with an AI agent instead of a browser,
+> how much of the company's customer journey actually works? AgentSee measures and improves
+> how a company's website, information, tools, and workflows perform across the agent-assisted
+> buying journey: discover, understand, evaluate, compare, qualify, act. It starts with
+> mid-market B2B software (SaaS) companies.
 
-## What we do
+## Services (a ladder, starting free)
 
-- **Agentic Readiness Audit** — a full diagnostic of how a brand shows up to AI agents across the funnel: where it's invisible at discovery, misrepresented in research, and unusable at conversion.
-- **AEO & GEO Strategy** — content and positioning designed to earn citation and recommendation inside AI-generated answers (Answer Engine Optimization / Generative Engine Optimization).
-- **Structured Data & Brand Content** — schema.org markup and brand-consistent content so agents can accurately research and represent a business.
-- **API, MCP & WebMCP Enablement** — strategy and implementation support for exposing real business capabilities through interfaces agents can call (Model Context Protocol, WebMCP).
+- **Snapshot (free)**: an automated, public-data assessment of agent readiness. Around 100 checks across six dimensions; an absolute 0-100 score, an A-F grade, dimension scores, key findings, and anonymous category benchmark context (with the number of companies compared). It reports what is working and what is missing; detailed fixes are part of the paid stages.
+- **Audit**: what actually happens when AI agents research, compare, qualify, and try to act on the business, including competitor benchmarking and tool and workflow testing.
+- **Architect**: a prioritized strategy and plan built from the evidence, the client's goals, and constraints.
+- **Activate**: implementation across content, structured data, tools, and machine interfaces (including APIs, MCP, and WebMCP where they fit).
+- **Adapt**: ongoing monitoring of agent behavior, competitors, and results, and deciding what to change next.
 
-## The framework
+## The journey AgentSee measures
 
-The agentic customer journey has three stages, and AgentSee builds readiness across all of them:
+1. **Discover**: can an agent find and access the business?
+2. **Understand**: can it state what the company does and for whom?
+3. **Evaluate**: can it retrieve pricing, capabilities, integrations, security, and docs?
+4. **Compare**: can it weigh the company against alternatives?
+5. **Qualify**: can it judge fit?
+6. **Act**: can it take a next step (demo, trial, quote) and operate tools such as calculators?
 
-1. **Discovery** — AEO, GEO
-2. **Research & Education** — structured data & schema, brand-consistent content
-3. **Conversion** — APIs & MCP, WebMCP
+## Readiness maturity
 
-## Differentiator
+- Snapshot level: **Agent Discoverable**, **Agent Executable** (an automated agent can provide inputs, run a workflow, and retrieve its output), **Technically Agent-Ready**.
+- Audit level: **Agent Usable** (a reasoning agent can use the capability meaningfully).
+- Deeper: **Agent Operable** (authorized agents can perform business operations through APIs, MCP, or other interfaces).
 
-AgentSee was built by marketers, not engineers who discovered AI. Most companies in this
-space approach the agentic web as an engineering problem. AgentSee approaches it as a
-marketing problem that happens to need some technical execution — full-funnel brand
-strategy, applied to a funnel now run by agents.
+## How AgentSee measures
+
+- Public information only; the crawler identifies itself and respects robots.txt; bot protection is never bypassed (blocking is reported as a finding).
+- Deterministic checks first, structured AI judgment where rules are not enough; evidence is stored so results can be explained and re-checked.
+- The score is absolute and stable; benchmarks are separate context with sample sizes.
+- The methodology is being validated against real AI-agent outcomes in a study with pass/fail criteria set in advance.
 
 ## Contact
 
-- Email: aaronamerling@gmail.com (placeholder — a dedicated agentsee.ai inbox is coming)
+- Email: aaronamerling@gmail.com (a dedicated agentsee.ai inbox and a self-serve Snapshot are coming)
 - Site: https://aaronamerling-create.github.io/Agentsee
 
 ---
-This file follows the llms.txt convention (https://llmstxt.org) — a plain-text summary
+This file follows the llms.txt convention (https://llmstxt.org): a plain-text summary
 intended to help AI agents and language models quickly and accurately understand this site.
