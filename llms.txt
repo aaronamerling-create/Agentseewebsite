@@ -2,19 +2,21 @@
 
 > AgentSee helps mid-size B2B companies make their digital experiences work for both humans and AI agents.
 > The core question: if a prospective customer arrives with an AI agent instead of a browser,
-> how much of the company's customer journey actually works? AgentSee measures and improves
-> how a company's website, information, tools, and workflows perform across the agent-assisted
+> how much of the company's customer journey actually works? AgentSee diagnoses, plans, implements, and
+> monitors how a company's website, information, tools, and workflows perform across the agent-assisted
 > buying journey: discover, understand, evaluate, compare, qualify, act.
 > It serves mid-size B2B companies whose buyers research and compare carefully: manufacturers,
 > distributors, industrial and professional services firms, and software companies.
 
-## Services (a ladder, starting free)
+## Services (a ladder: a free way in, then paid services)
 
-- **Assessment (free)**: an automated, public-data assessment of agent readiness. Around 100 checks across six dimensions; an absolute 0-100 score, an A-F grade, dimension scores, key findings, and anonymous category benchmark context (with the number of companies compared). It reports what is working and what is missing; detailed fixes are part of the paid stages.
-- **Audit**: what actually happens when AI agents research, compare, qualify, and try to act on the business, including competitor benchmarking and tool and workflow testing.
-- **Architect**: a prioritized strategy and plan built from the evidence, the client's goals, and constraints.
-- **Activate**: implementation across content, structured data, tools, and machine interfaces (including APIs, MCP, and WebMCP where they fit).
-- **Adapt**: ongoing monitoring of agent behavior, competitors, and results, and deciding what to change next.
+- **Assessment (free)**: an automated, public-data assessment of agent readiness. Over 100 checks across six dimensions; an absolute 0-100 score, an A-F grade, dimension scores, key findings, and anonymous category benchmark context (with the number of companies compared). It reports what is working and what is missing; detailed fixes are part of the paid stages.
+- **Audit (paid)**: what actually happens when AI agents research, compare, qualify, and try to act on the business, including competitor benchmarking and tool and workflow testing.
+- **Architect (paid)**: a prioritized strategy and plan built from the evidence, the client's goals, and constraints.
+- **Activate (paid)**: implementation across content, structured data, tools, and machine interfaces (including APIs, MCP, and WebMCP where they fit).
+- **Adapt (paid, ongoing)**: ongoing monitoring of agent behavior, competitors, and results, and deciding what to change next.
+
+Engagements usually start with an Audit; each later stage is scoped and quoted after a short conversation.
 
 ## The journey AgentSee measures
 
@@ -27,9 +29,9 @@
 
 ## Readiness maturity
 
-- Assessment level: **Agent Discoverable**, **Agent Executable** (an automated agent can provide inputs, run a workflow, and retrieve its output), **Technically Agent-Ready**.
+- Assessment level: **Agent Discoverable**, **Agent Executable** (an automated agent can provide inputs, run a workflow, and retrieve its output), **Agent Ready** (technically agent-ready overall).
 - Audit level: **Agent Usable** (a reasoning agent can use the capability meaningfully).
-- Deeper: **Agent Operable** (authorized agents can perform business operations through APIs, MCP, or other interfaces).
+- Audit and Activate: **Agent Operable** (authorized agents can perform business operations through APIs, MCP, or other interfaces).
 
 ## How AgentSee measures
 

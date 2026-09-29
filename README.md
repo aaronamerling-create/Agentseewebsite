@@ -12,21 +12,21 @@ Live site: **https://aaronamerling-create.github.io/Agentsee** (via GitHub Pages
 
 ## What's on the page
 
-One long-form, conversion-focused landing page:
+One long-form, conversion-focused landing page. It sells the whole program; the free Assessment
+is the way in (lead magnet):
 
-- **Hero**: headline, loss framing, and a website field that requests the free Assessment
+- **Hero**: headline, loss framing, the full-program promise, and a website field for the free Assessment
 - **Why now**: agents shortlist vendors; the losses are silent; readiness is relative
-- **Self-check**: six yes / not sure / no questions, one per journey stage (Discover, Understand,
-  Evaluate, Compare, Qualify, Act), with a live tally that leads to the CTA
-- **Assessment**: what the free Assessment delivers, and the readiness maturity scale (Agent Discoverable,
-  Agent Executable, Technically Agent-Ready; Agent Usable in the Audit; Agent Operable beyond)
+- **What you get**: six business outcomes of the full program
+- **Services**: the ladder Assessment (free) -> Audit -> Architect -> Activate -> Adapt; paid stages marked
+  "Paid" with a "Contact us" link
+- **Free Assessment**: what it delivers, and the maturity scale (Agent Discoverable, Agent Executable,
+  Agent Ready; Agent Usable in the Audit; Agent Operable in the Audit and Activate)
 - **Try this today**: three checks a visitor can run themselves
-- **Services**: the ladder Assessment (free) -> Audit -> Architect -> Activate -> Adapt
-- **How We Measure**: honest agent's-eye view, evidence, stable score with honest benchmarks,
-  findings before fixes, methodology validation, practicing what we measure
-- **FAQ**: direct, quotable answers (mirrored word-for-word in the FAQPage structured data)
-- **Contact**: a website field that opens a pre-filled email (placeholder until a self-serve Assessment
-  and an agentsee.ai inbox exist); a sticky CTA on mobile
+- **How We Measure**: evidence, honesty, stable score, findings before fixes, validation, practicing what we measure
+- **FAQ**: paid services first, then the Assessment (mirrored word-for-word in the FAQPage structured data)
+- **Contact**: two paths, a free Assessment form and a paid-services enquiry (both open a pre-filled email
+  until a self-serve Assessment and an agentsee.ai inbox exist); a sticky CTA on mobile
 
 Social proof (client logos and testimonials) is deliberately left out until there are real clients;
 a comment in `index.html` marks where it goes.
