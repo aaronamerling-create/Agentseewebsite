@@ -15,7 +15,6 @@ Live site: **https://aaronamerling-create.github.io/Agentsee** (via GitHub Pages
 One long-form, conversion-focused landing page:
 
 - **Hero**: headline, loss framing, and a website field that requests the free Assessment
-- **Research**: three anonymized findings from AgentSee's 18-site study, with the sample and caveats stated
 - **Why now**: agents shortlist vendors; the losses are silent; readiness is relative
 - **Self-check**: six yes / not sure / no questions, one per journey stage (Discover, Understand,
   Evaluate, Compare, Qualify, Act), with a live tally that leads to the CTA
@@ -29,8 +28,8 @@ One long-form, conversion-focused landing page:
 - **Contact**: a website field that opens a pre-filled email (placeholder until a self-serve Assessment
   and an agentsee.ai inbox exist); a sticky CTA on mobile
 
-The research numbers come from the backend repo's cohort report
-(`docs/build/validation/P3_cohort_report_2026-09-27.md`). Keep them in step with that report.
+Social proof (client logos and testimonials) is deliberately left out until there are real clients;
+a comment in `index.html` marks where it goes.
 
 ## Practicing what we preach
 
