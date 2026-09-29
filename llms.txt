@@ -1,15 +1,16 @@
 # AgentSee
 
-> AgentSee helps businesses make their digital experiences work for both humans and AI agents.
+> AgentSee helps mid-size B2B companies make their digital experiences work for both humans and AI agents.
 > The core question: if a prospective customer arrives with an AI agent instead of a browser,
 > how much of the company's customer journey actually works? AgentSee measures and improves
 > how a company's website, information, tools, and workflows perform across the agent-assisted
-> buying journey: discover, understand, evaluate, compare, qualify, act. It starts with
-> mid-market B2B software (SaaS) companies.
+> buying journey: discover, understand, evaluate, compare, qualify, act.
+> It serves mid-size B2B companies whose buyers research and compare carefully: manufacturers,
+> distributors, industrial and professional services firms, and software companies.
 
 ## Services (a ladder, starting free)
 
-- **Snapshot (free)**: an automated, public-data assessment of agent readiness. Around 100 checks across six dimensions; an absolute 0-100 score, an A-F grade, dimension scores, key findings, and anonymous category benchmark context (with the number of companies compared). It reports what is working and what is missing; detailed fixes are part of the paid stages.
+- **Assessment (free)**: an automated, public-data assessment of agent readiness. Around 100 checks across six dimensions; an absolute 0-100 score, an A-F grade, dimension scores, key findings, and anonymous category benchmark context (with the number of companies compared). It reports what is working and what is missing; detailed fixes are part of the paid stages.
 - **Audit**: what actually happens when AI agents research, compare, qualify, and try to act on the business, including competitor benchmarking and tool and workflow testing.
 - **Architect**: a prioritized strategy and plan built from the evidence, the client's goals, and constraints.
 - **Activate**: implementation across content, structured data, tools, and machine interfaces (including APIs, MCP, and WebMCP where they fit).
@@ -19,14 +20,14 @@
 
 1. **Discover**: can an agent find and access the business?
 2. **Understand**: can it state what the company does and for whom?
-3. **Evaluate**: can it retrieve pricing, capabilities, integrations, security, and docs?
+3. **Evaluate**: can it retrieve pricing, capabilities, specifications, integrations, certifications, and documentation?
 4. **Compare**: can it weigh the company against alternatives?
 5. **Qualify**: can it judge fit?
-6. **Act**: can it take a next step (demo, trial, quote) and operate tools such as calculators?
+6. **Act**: can it take a next step (quote, demo, trial) and operate tools such as calculators and configurators?
 
 ## Readiness maturity
 
-- Snapshot level: **Agent Discoverable**, **Agent Executable** (an automated agent can provide inputs, run a workflow, and retrieve its output), **Technically Agent-Ready**.
+- Assessment level: **Agent Discoverable**, **Agent Executable** (an automated agent can provide inputs, run a workflow, and retrieve its output), **Technically Agent-Ready**.
 - Audit level: **Agent Usable** (a reasoning agent can use the capability meaningfully).
 - Deeper: **Agent Operable** (authorized agents can perform business operations through APIs, MCP, or other interfaces).
 
@@ -39,7 +40,7 @@
 
 ## Contact
 
-- Email: aaronamerling@gmail.com (a dedicated agentsee.ai inbox and a self-serve Snapshot are coming)
+- Email: aaronamerling@gmail.com (a dedicated agentsee.ai inbox and a self-serve Assessment are coming)
 - Site: https://aaronamerling-create.github.io/Agentsee
 
 ---

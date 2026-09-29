@@ -1,9 +1,9 @@
 # AgentSee
 
 Marketing site for **AgentSee**, which helps businesses make their digital experiences work
-for both humans and AI agents. The core question: if a prospect arrives with an AI agent instead
+for both humans and AI agents, for mid-size B2B companies. The core question: if a prospect arrives with an AI agent instead
 of a browser, how much of the customer journey actually works? AgentSee measures and improves that
-across discover, understand, evaluate, compare, qualify, and act, starting with mid-market B2B software.
+across discover, understand, evaluate, compare, qualify, and act,.
 
 Live site: **https://aaronamerling-create.github.io/Agentsee** (via GitHub Pages)
 
@@ -12,20 +12,25 @@ Live site: **https://aaronamerling-create.github.io/Agentsee** (via GitHub Pages
 
 ## What's on the page
 
-One long-form landing page covering:
+One long-form, conversion-focused landing page:
 
-- **The Shift**: agents now evaluate vendors, not just find them; the gaps are silent
-- **The Journey**: the six stages AgentSee measures (Discover, Understand, Evaluate, Compare,
-  Qualify, Act); AEO/GEO/structured data/APIs/MCP are tools, not the goal
-- **Snapshot**: the free agent's-eye assessment (0-100 score, A-F grade, six dimensions, findings,
-  anonymous benchmark) and the readiness maturity scale (Agent Discoverable, Agent Executable,
-  Technically Agent-Ready; Agent Usable in the Audit; Agent Operable beyond)
-- **Services**: the ladder Snapshot (free) -> Audit -> Architect -> Activate -> Adapt
+- **Hero**: headline, loss framing, and a website field that requests the free Assessment
+- **Research**: three anonymized findings from AgentSee's 18-site study, with the sample and caveats stated
+- **Why now**: agents shortlist vendors; the losses are silent; readiness is relative
+- **Self-check**: six yes / not sure / no questions, one per journey stage (Discover, Understand,
+  Evaluate, Compare, Qualify, Act), with a live tally that leads to the CTA
+- **Assessment**: what the free Assessment delivers, and the readiness maturity scale (Agent Discoverable,
+  Agent Executable, Technically Agent-Ready; Agent Usable in the Audit; Agent Operable beyond)
+- **Try this today**: three checks a visitor can run themselves
+- **Services**: the ladder Assessment (free) -> Audit -> Architect -> Activate -> Adapt
 - **How We Measure**: honest agent's-eye view, evidence, stable score with honest benchmarks,
-  findings before fixes, methodology validation, B2B software first
+  findings before fixes, methodology validation, practicing what we measure
 - **FAQ**: direct, quotable answers (mirrored word-for-word in the FAQPage structured data)
-- **Contact**: a mailto CTA to request a Snapshot (placeholder until a self-serve Snapshot and an
-  agentsee.ai inbox exist)
+- **Contact**: a website field that opens a pre-filled email (placeholder until a self-serve Assessment
+  and an agentsee.ai inbox exist); a sticky CTA on mobile
+
+The research numbers come from the backend repo's cohort report
+(`docs/build/validation/P3_cohort_report_2026-09-27.md`). Keep them in step with that report.
 
 ## Practicing what we preach
 
@@ -105,6 +110,7 @@ live at `https://aaronamerling-create.github.io/Agentsee`.
 
 ## Updating the contact CTA
 
-The "Start the Conversation" button currently opens a `mailto:` link as a placeholder.
-Swap the `href` in the `#contact` section of `index.html` once you have a dedicated
-`hello@agentsee.ai` inbox or a booking/form link.
+The two website forms (hero and `#contact`) compose a `mailto:` email in `js/main.js`, with a
+plain `mailto:` form action as the no-JavaScript fallback. Change the address in both places
+(`index.html` form actions and `js/main.js`) once a dedicated `hello@agentsee.ai` inbox or a real
+form endpoint exists.
